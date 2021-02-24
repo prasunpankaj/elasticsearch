@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 # elasticsearch
 https://www.codica.com/blog/developing-rails-web-app-with-elasticsearch/
+http://localhost:5601/ (Kibana)
+http://127.0.0.1:9200/ (elasticsearch)
