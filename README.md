@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # elasticsearch
+https://www.codica.com/blog/developing-rails-web-app-with-elasticsearch/
