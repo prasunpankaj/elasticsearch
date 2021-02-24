@@ -204,3 +204,5 @@ STATES = [
 ].freeze
 
 Location.create(STATES)
+2000.times {Location.create(name: Faker::Nation.nationality, level: "city")}
+5000.times {Location.create(name: Faker::Nation.capital_city, level: "city")}
